@@ -8,5 +8,9 @@
 </head>
 <body>
 	<h1>hello bbang-gu</h1>
+	<form action="asdf">
+		<input type="submit" value="¾î·Á¿ý">
+		
+	</form>
 </body>
 </html>
